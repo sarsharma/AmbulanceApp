@@ -1,1 +1,1 @@
-Basic build of the ambulance app
+Basic build of the android app
